@@ -27,6 +27,9 @@
 ![body](/Verification_work/images/Verification_task_4.PNG)  
 ### 5. Пример выполнения
 ![result](/Verification_work/images/Verification_task_5.PNG)  
-
+### 6. Использование Git
+Данная работа была загружена на удаленный репозиторий GitHub  
+![Git](/Verification_work/images/Verification_task_6.PNG)  
+Как видно из изображения, на момент написания файла ReadMe.md было выполенено 4 коммита.
 
 
